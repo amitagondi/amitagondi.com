@@ -1,5 +1,3 @@
 # Amita-Gondi-Website
-Complete code for the http://amitagondi.com/ website.
-# amitagondi
-# amitagondi
-# tempWebsite
+Complete code for the http://amitagondi.github.io/ website.
+
